@@ -8,3 +8,5 @@ Git has a mutable index called stage.
 Git so cool!
 Git so cool cool cool cool!
 Git so good
+
+my name is git
